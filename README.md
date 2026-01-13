@@ -25,7 +25,7 @@ A Spring Boot REST API that validates password strength based on configurable se
 
 
 }
-##### Request
+##### Response
 {
     "valid": true,
     "score": 90,
